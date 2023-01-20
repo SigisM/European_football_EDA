@@ -1,6 +1,6 @@
 # Data Science for European Football dataset
 
-This is a Data Analysis of European Football dataset, as project for Data Science Course<br />
+This is a Data Analysis of European Football dataset. A capstone project for Data Science Course<br />
 
 
 ## Dataset
